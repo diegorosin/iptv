@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Sony HD ³">
-    <display-name lang="pt"> Canal Sony HD ³</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <icon src="../canais/solidariatv.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
